@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "@nestjs/jwt": "^10.2.0",
+    "@prisma/client": "^5.10.2",
     "passport-jwt": "^4.0.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.10.2"
   }
 }
